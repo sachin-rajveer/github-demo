@@ -1,3 +1,7 @@
 firstline
 
 second line shoulde be commited but not pushed
+
+third line shuld be added to staging area but not commited
+
+fourth line changes in working directory but not forwarded to staging area.
